@@ -1,0 +1,11 @@
+C:\Git\RazorPages\bin\Debug\netcoreapp2.0\RazorPages.deps.json
+C:\Git\RazorPages\bin\Debug\netcoreapp2.0\RazorPages.runtimeconfig.json
+C:\Git\RazorPages\bin\Debug\netcoreapp2.0\RazorPages.runtimeconfig.dev.json
+C:\Git\RazorPages\bin\Debug\netcoreapp2.0\RazorPages.dll
+C:\Git\RazorPages\bin\Debug\netcoreapp2.0\RazorPages.pdb
+C:\Git\RazorPages\obj\Debug\netcoreapp2.0\RazorPages.csprojResolveAssemblyReference.cache
+C:\Git\RazorPages\obj\Debug\netcoreapp2.0\RazorPages.csproj.CoreCompileInputs.cache
+C:\Git\RazorPages\obj\Debug\netcoreapp2.0\RazorPages.AssemblyInfoInputs.cache
+C:\Git\RazorPages\obj\Debug\netcoreapp2.0\RazorPages.AssemblyInfo.cs
+C:\Git\RazorPages\obj\Debug\netcoreapp2.0\RazorPages.dll
+C:\Git\RazorPages\obj\Debug\netcoreapp2.0\RazorPages.pdb
